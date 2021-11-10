@@ -1,5 +1,5 @@
-#About 
-##_Version 1:
+# About 
+## _Version 1:
 This Python function computes the RSI (Relative Stenght Index) indicator for a given day stock price series
 Input: Stock price (1 column)
 Output: Price_diffrences | Gain\Loss | Avg_Gain\Avg_loss | RS | RSI 
